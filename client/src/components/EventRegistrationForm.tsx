@@ -248,7 +248,7 @@ const EventRegistrationForm: React.FC = () => {
               <div className="grid md:grid-cols-2 gap-4">
                 <div>
                   <label htmlFor="organization" className="block text-sm font-medium text-gray-700 mb-1">
-                    Organization/University
+                    College name
                   </label>
                   <input
                     type="text"
